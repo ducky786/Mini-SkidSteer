@@ -5,7 +5,11 @@ I wanted to build this beucase I found an intrest in these small desktop toys th
 things and throwing them around. Another reason I wanted to build this was beucase I also wanted to learn something new! During this build I have defenetly learn a significant amound of cad and PCB design! But the main reason is to have pure fun with a mini constuction vehicel!! 
 # CAD:
 
-<img width="950" height="694" alt="image" src="https://github.com/user-attachments/assets/49011b6e-3e58-495d-9354-596f1efa3a3d" />
+<img width="823" height="632" alt="image" src="https://github.com/user-attachments/assets/b98997c4-48fe-4647-95a8-6774c131eac9" />
+
+<img width="745" height="562" alt="image" src="https://github.com/user-attachments/assets/5222ad42-75fe-4ca1-a82b-232db3f5d299" />
+
+
 
 # PCB:
 
