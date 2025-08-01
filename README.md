@@ -17,6 +17,11 @@ things and throwing them around. Another reason I wanted to build this was beuca
 
 <img width="1280" height="780" alt="image" src="https://github.com/user-attachments/assets/a332eb17-174c-495c-a29b-aa072fe8ed4e" />
 
+# Wire-ring Diagram:
+
+<img width="1511" height="1191" alt="image" src="https://github.com/user-attachments/assets/5ad2940e-a6d3-4676-b3bf-a627c0f721f5" />
+
+
 # FIRMWARE:
 
 <img width="1098" height="1884" alt="image" src="https://github.com/user-attachments/assets/0f311047-6c70-41ba-ad51-8f0a2a253ea7" />
