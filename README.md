@@ -1,8 +1,11 @@
-[Mini Skidsteer BOM - Sheet1.csv](https://github.com/user-attachments/files/21541234/Mini.Skidsteer.BOM.-.Sheet1.csv)# DESK TOP SKIDSTEER
+# DESK TOP SKIDSTEER
 
 My project is a small RC skidsteer for the desktop to cure bordom. This Skidsteer is around 80mm x 70mm with a arm that includes a bucket tilt. The arm and the Tilt are powered by servos while the drive bace is powered by 2 N20 motors. The 
 I wanted to build this beucase I found an intrest in these small desktop toys that could be fun to kill time on your desk. I went for a skidsteer because it would consist of something more then just simply driving around on top of your desk.  Like picking up small
-things and throwing them around. Another reason I wanted to build this was beucase I also wanted to learn something new! During this build I have defenetly learn a significant amound of cad and PCB design! But the main reason is to have pure fun with a mini constuction vehicel!!
+things and throwing them around. Another reason I wanted to build this was beucase I also wanted to learn something new! During this build I have defenetly learn a significant amound of cad and PCB design! But the main reason is to have pure fun with a mini constuction vehicel!! This cartoon style is inpired by an open sorce skidsteer modle by professor boots. 
+
+NOTE NONE OF IT WAS COPIED. They might look similar but everything is custom like the mechanisms, code, and PCB
+https://www.printables.com/model/721244-3d-printed-rc-skidsteer-v30/files
 
 # CAD:
 
