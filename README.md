@@ -9,6 +9,8 @@ things and throwing them around. Another reason I wanted to build this was beuca
 
 <img width="745" height="562" alt="image" src="https://github.com/user-attachments/assets/5222ad42-75fe-4ca1-a82b-232db3f5d299" />
 
+The wheels are place holders for a 26mm D-ring Wheels: [Wheels](https://www.amazon.com/10pcs-D-Hole-Rubber-Wheel-Suitable/dp/B0DHS12GDV/ref=sr_1_3?crid=JYD2UDDS1NEK&dib=eyJ2IjoiMSJ9.ZUXECa4swdUpnlJCNFAChQdrSCF2_hyKX8ZRQ2ua2YUncgO5PiK5-fhxESZpHSc04xRms3dZP7bGo22MBXnhl2GiFjDrSeCp869mCpt2dDXZk3buzny7Sudp0jAhjKUcEA7j7tARDvNgPD-RxQ5BFpu_E_WtRcR4WOEt8GHUK6RN7SL4UtHEZsm3R7V5XJPagJUR_B_1uT-b5DjtV5n_0yKpyzRRbffM9ZdXg7WJBNcLcRB7_FF1wIvSGdpv8AstDdXbFSEhfm7NKxJSys81x3GqS7OE68Zp1z-JxQ1wk4M.ZB2Gj1L4j-ghlaeTYDEn---1bgTsKAoD6mUg0iyUQDg&dib_tag=se&keywords=n20+motor+wheels&qid=1753996532&sprefix=n20+motor+wheels%2Caps%2C124&sr=8-3)
+
 
 
 # PCB:
