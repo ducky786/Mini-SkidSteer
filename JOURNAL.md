@@ -59,7 +59,8 @@ CAD:
 I Finsihed some of the experimental code for the skid steer. This is just the simple movement mechanism. Like forward, left and right. I am not really expecting this code to work just yet. I still have to add the core mechanism like the arm movement along with the bucket tilt! All of this I am hoping to create a UI for the controles where I will be able to controle the skidsteer through wifi on the ESP-32 Which I hope to set up very soon when I get the ESP32. This is driven using a tank drive, where the two back n20 motors work indpendently to move itselt forward or backwards or left or right! I have never coded for motors so it took me sometime to find something but I came across this nice video that kinda helped me understand things a little. I am honsetly still a bit confused on things but hey, I got something!
 
 This is the experimental code not sure if this would acc work yet:
-<img width="783" height="1542" alt="image" src="https://github.com/user-attachments/assets/9e928295-40dd-499b-8af0-3fb42ac237bc" />
+<img width="1098" height="1884" alt="image" src="https://github.com/user-attachments/assets/0f311047-6c70-41ba-ad51-8f0a2a253ea7" />
+
 
 [Time spent this session: 1hr]
 
