@@ -21,7 +21,8 @@ The wheels are place holders for a 26mm D-ring Wheels: [Wheels](https://www.amaz
 
 # Wire-ring Diagram:
 
-<img width="1511" height="1191" alt="image" src="https://github.com/user-attachments/assets/5ad2940e-a6d3-4676-b3bf-a627c0f721f5" />
+<img width="1414" height="1115" alt="image" src="https://github.com/user-attachments/assets/9b1a132e-c4d3-4039-b0ab-868b2f3c3ce6" />
+
 
 
 # FIRMWARE:
