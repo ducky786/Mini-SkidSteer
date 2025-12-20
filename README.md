@@ -49,4 +49,12 @@ The wheels are place holders for a 26mm D-ring Wheels: [Wheels](https://www.amaz
 | PCB               | 1               | ~$15   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | TOTAL             |                 | 79.92  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
+# FINAL PRODUCT:
+
+This is the final PCB design! I feel that it came out Great and what I love about this PCB is that I can remove it from the Skidsteer and place it into a 3d printed car! I plan on using this it on other projects.
+<img width="417" height="505" alt="image" src="https://github.com/user-attachments/assets/d28d153b-eac7-4cd8-a51d-49691904ecba" />
+
+<img width="621" height="838" alt="image" src="https://github.com/user-attachments/assets/c04cc0a8-65da-45ee-855e-87aaf8b788b8" />
+
+Now the skidseer interms of CAD, it came out great too. There defenety have been some bad tolerences and alignment but it came together well enough.
 
